@@ -1,6 +1,7 @@
 ## What
 A prompt based image generator [website](https://stable-diffusion-nextjs-alpha.vercel.app/)
-![demo image of stable diffusion image generator website](https://github.com/hangjoni/stable-diffusion-nextjs/blob/7453fa0f0e75a35793e9cfda3a9220a7e5780d0e/image.png | width=100)
+
+<img src="[https://github.com/favicon.ico](https://github.com/hangjoni/stable-diffusion-nextjs/blob/7453fa0f0e75a35793e9cfda3a9220a7e5780d0e/image.png)" width="48">
 
 ## How 
 - Model: Stable Diffusion
